@@ -26,8 +26,8 @@
     },
     "autoload": {
         "psr-0": {
-            "stephylee\\CalendarBundle": ""
+            "ADesigns\\CalendarBundle": ""
         }
     },
-    "target-dir": "stephylee/CalendarBundle"
+    "target-dir": "ADesigns/CalendarBundle"
 }
