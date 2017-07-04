@@ -2,7 +2,7 @@ CalendarBundle - jQuery FullCalendar bundle.
 ===============
 [![Latest Stable Version](https://poser.pugx.org/adesigns/calendar-bundle/v/stable)](https://packagist.org/packages/adesigns/calendar-bundle) [![Total Downloads](https://poser.pugx.org/adesigns/calendar-bundle/downloads)](https://packagist.org/packages/adesigns/calendar-bundle) [![Latest Unstable Version](https://poser.pugx.org/adesigns/calendar-bundle/v/unstable)](https://packagist.org/packages/adesigns/calendar-bundle) [![License](https://poser.pugx.org/adesigns/calendar-bundle/license)](https://packagist.org/packages/adesigns/calendar-bundle)
 
-This bundle allows you to integrate the [jQuery FullCalendar](http://arshaw.com/fullcalendar/) plugin into your Symfony2 application.
+This bundle allows you to integrate the [jQuery FullCalendar](http://arshaw.com/fullcalendar/) plugin into your Symfony2-3 application.
 
 Once installed, this bundle will use event listeners to load events from any bundle in your application.
 
