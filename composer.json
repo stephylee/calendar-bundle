@@ -1,5 +1,5 @@
 {
-    "name": "adesigns/calendar-bundle",
+    "name": "stephylee/calendar-bundle",
     "type": "symfony-bundle",
     "description": "This bundle allows you to integrate the jQuery FullCalendar plugin into your Symfony2 application.",
     "keywords": ["calendar", "fullcalendar", "jquery calendar"],
@@ -15,7 +15,6 @@
     "require": {
         "symfony/twig-bundle": "~2.1|~3.0",
         "symfony/framework-bundle": "~2.1|~3.0",
-        "friendsofsymfony/jsrouting-bundle": "~1.1",
         "doctrine/collections": ">=1.0"
     },
     "require-dev": {
@@ -27,8 +26,8 @@
     },
     "autoload": {
         "psr-0": {
-            "ADesigns\\CalendarBundle": ""
+            "stephylee\\CalendarBundle": ""
         }
     },
-    "target-dir": "ADesigns/CalendarBundle"
+    "target-dir": "stephylee/CalendarBundle"
 }
